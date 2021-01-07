@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="abc.getpass" />
+          <option value="abc.user" />
+          <option value="abc.pins" />
+          <option value="abc.amounts" />
+          <option value="abc.n" />
+          <option value="abc.amount" />
+          <option value="abc.users" />
+          <option value="ATMFUN.getpass" />
+          <option value="ATMFUN.user" />
+          <option value="ATMFUN.pins" />
+          <option value="ATMFUN.users" />
+          <option value="ATMFUN.amounts" />
+          <option value="ATMFUN.n" />
+          <option value="pandas_datareader" />
+          <option value="banksystem.RIGTH" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
